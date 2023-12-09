@@ -1,0 +1,27 @@
+{
+  "name": "cursed-city",
+  "version": "1.0.0",
+  "description": "Determines if all buildings in Nodeberg are connected after some roads disappear at night.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Nodeberg",
+    "Graph Theory",
+    "DFS",
+    "Cursed City",
+    "Connectivity"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "node.js": ">=14.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
